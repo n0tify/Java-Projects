@@ -1,0 +1,23 @@
+==== 📝 Notes App ====
+1. Add a Note
+2. View Notes
+3. Exit
+Enter your choice: 1
+🖊️ Enter your note: Welcome to Notes App
+✅ Note saved successfully!
+
+==== 📝 Notes App ====
+1. Add a Note
+2. View Notes
+3. Exit
+Enter your choice: 2
+
+📋 Your Notes:
+- Welcome to Notes App
+
+==== 📝 Notes App ====
+1. Add a Note
+2. View Notes
+3. Exit
+Enter your choice: 3
+👋 Exiting Notes App. Goodbye!
