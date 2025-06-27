@@ -19,6 +19,54 @@ Develop a mini system to manage books and users using Object-Oriented Programmin
 
 ---
 
+## 🖥️ Sample Output:
+===== Library Menu =====
+1. Display Books   
+2. Issue Book      
+3. Return Book     
+4. Exit
+Enter your choice: 1
+
+Books Available:
+0. Java Programming by James Gosling | Issued: false
+1. OOP Concepts by Bjarne Stroustrup | Issued: false
+
+===== Library Menu =====
+1. Display Books
+2. Issue Book
+3. Return Book
+4. Exit
+Enter your choice: 2
+
+Books Available:
+0. Java Programming by James Gosling | Issued: false
+1. OOP Concepts by Bjarne Stroustrup | Issued: false
+Enter the book index to issue: 1
+OOP Concepts issued successfully.
+
+===== Library Menu =====
+1. Display Books
+2. Issue Book
+3. Return Book
+4. Exit
+Enter your choice: 3
+
+Books Available:
+0. Java Programming by James Gosling | Issued: false
+1. OOP Concepts by Bjarne Stroustrup | Issued: true
+Enter the book index to return: 1
+OOP Concepts returned successfully.
+
+===== Library Menu =====
+1. Display Books
+2. Issue Book
+3. Return Book
+4. Exit
+Enter your choice: 4
+Exiting Library Management System. Goodbye!
+
+---
+
 ## ❓ Interview Questions:
 
 1. What is abstraction?
