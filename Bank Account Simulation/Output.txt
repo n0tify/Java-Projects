@@ -1,0 +1,53 @@
+ 👤 Enter Account Holder Name: Jane 
+
+===== 🏦 Bank Menu =====    
+1. Deposit
+2. Withdraw
+3. Check Balance
+4. View Transaction History
+5. Exit
+Enter your choice: 1       
+Enter amount to deposit: 10000
+✅ ₹10000.0 deposited successfully.
+
+===== 🏦 Bank Menu =====
+1. Deposit
+2. Withdraw
+3. Check Balance
+4. View Transaction History       
+5. Exit
+Enter your choice: 2
+Enter amount to withdraw: 2000
+✅ ₹2000.0 withdrawn successfully.
+
+===== 🏦 Bank Menu =====
+1. Deposit
+2. Withdraw
+3. Check Balance
+4. View Transaction History
+5. Exit
+Enter your choice: 3
+💰 Current Balance: ₹8000.0
+
+===== 🏦 Bank Menu =====
+1. Deposit
+2. Withdraw
+3. Check Balance
+4. View Transaction History
+5. Exit
+Enter your choice: 4
+
+📋 Transaction History:
+- Account created for: Jane
+- Deposited: ₹10000.0
+- Withdrawn: ₹2000.0
+
+===== 🏦 Bank Menu =====
+1. Deposit
+2. Withdraw
+3. Check Balance
+4. View Transaction History
+5. Exit
+Enter your choice: 5
+👋 Exiting... Thank you for using our Bank App!
+
