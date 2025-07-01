@@ -1,0 +1,24 @@
+=== Java GUI ToDo App Output ===
+
+✔️ Application Start:
+- "My Tasks" window opens.
+
+✔️ User Actions:
+- Added tasks:
+  • Complete Java Assignment
+  • Push Projects to GitHub
+  • Review Internship Tasks
+
+- Marked "Complete Java Assignment" as ✅ Done.
+
+- Deleted "Push Projects to GitHub".
+
+✔️ Final Visible Tasks in GUI:
+- ✅ Complete Java Assignment
+- Review Internship Tasks
+
+✔️ Observations:
+- Modern Swing GUI
+- Buttons: Add, Mark Done, Delete
+- Scrollable task list
+- Responsive layout
