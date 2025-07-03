@@ -1,0 +1,50 @@
+===== Employee Management System =====
+1. Add Employee
+2. View All Employees
+3. Update Employee Salary
+4. Delete Employee
+5. Exit
+Enter your choice: 1
+Enter Name: Jane Green
+Enter Department: CSE
+Enter Salary: 40000
+Employee added successfully.
+
+===== Employee Management System =====
+1. Add Employee
+2. View All Employees
+3. Update Employee Salary
+4. Delete Employee
+5. Exit
+Enter your choice: 2
+ID: 1, Name: Jane Green, Department: CSE, Salary: 40000.0
+
+===== Employee Management System =====
+1. Add Employee
+2. View All Employees
+3. Update Employee Salary
+4. Delete Employee
+5. Exit
+Enter your choice: 3
+Enter Employee ID to update salary: 1
+Enter new salary: 60000
+Salary updated successfully.
+
+===== Employee Management System =====
+1. Add Employee
+2. View All Employees
+3. Update Employee Salary
+4. Delete Employee
+5. Exit
+Enter your choice: 4
+Enter Employee ID to delete: 1
+Employee deleted successfully.
+
+===== Employee Management System =====
+1. Add Employee
+2. View All Employees
+3. Update Employee Salary
+4. Delete Employee
+5. Exit
+Enter your choice: 5
+Exiting the application.
